@@ -1,0 +1,90 @@
+body.signin-body {
+  background-color: #9FE2BF;
+  margin: 0;
+}
+
+.container.signin-container {
+  margin-top: 5%;
+  width: 50%;
+}
+
+.card.signin-card {
+  padding: 40px 0 20px;
+  background-color: #ECFFDC;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.5);
+}
+
+img.signin-img {
+  padding-bottom: 2rem;
+  max-width: 100px;
+  display: block;
+  margin: auto;
+}
+
+form.signin-form {
+  max-width: 350px;
+  margin: auto;
+}
+
+button.signin-btn {
+  color: white;
+  background-color: #4F7942;
+  width: 100%;
+  margin: 0.5rem 0;
+}
+
+.form-check-label a {
+  text-decoration: none;
+}
+
+a.create-new-account {
+  text-decoration: none;
+  font-size: 1rem;
+  text-align: center;
+  display: block;
+  margin-top: 0.5rem;
+}
+
+/* #########M Mobile view ########### */
+@media (max-width: 767.98px) {
+  body.signin-body {
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  .container.signin-container {
+    width: 100% !important;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .card.signin-card {
+    width: 100%;
+    border-radius: 0;
+    padding: 2rem 1rem;
+    box-shadow: none;
+  }
+
+  form.signin-form {
+    width: 100%;
+    max-width: 100%;
+    padding: 0;
+  }
+
+  img.signin-img {
+    max-width: 70px;
+  }
+
+  .form-text {
+    font-size: 0.75rem;
+  }
+
+  button.signin-btn {
+    font-size: 1rem;
+    padding: 0.5rem;
+  }
+}
