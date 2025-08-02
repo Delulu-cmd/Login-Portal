@@ -1,21 +1,27 @@
 # 💖 Login Portal
 
+
 A sleek and reusable **Login Portal** designed for your website! Simply link this to your project, and ta-da — your login page is ready to go. 🎀
 
+
 ## ✨ Features
+
 
 - Modern, responsive design using **Bootstrap 5**
 - Clean and customizable layout
 - Easy to integrate with your own project
 - Styled with 💅 **HTML + CSS** for a pretty, professional look
+  
 
 ## 🛠 Technologies Used
 
 - HTML5
 - CSS3
 - Bootstrap 5
+  
 
 ## 🚀 How to Use
+
 
 1. **Clone the repository**
   git clone https://github.com/your-username/login-portal.git
@@ -44,7 +50,8 @@ Customize the colors, logo, and font to match your brand — this template is to
 
 ## 📸 Preview
 
-*(Add a screenshot here if you'd like — it's a great way to show off!)*
+<img width="1811" height="791" alt="image" src="https://github.com/user-attachments/assets/783aba58-5f56-4c13-b8af-bf66b8600e1f" />
+
 
 ---
 
